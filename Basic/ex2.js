@@ -1,0 +1,14 @@
+a=6;
+b=12;
+c=a+b;
+console.log(c);
+d=b-a;
+console.log(d);
+e=a*b;
+console.log(e);
+f=b/a;
+console.log(f);
+g=b%a;
+console.log(g);
+h=a**2;
+console.log(h);
